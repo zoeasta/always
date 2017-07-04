@@ -1,4 +1,3 @@
-
 AddHandler fcgid-script .fcgi
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
